@@ -1,0 +1,1 @@
+import{j as t,k as e}from"./index-Bfnhrs_D.js";const u=({changeTab:n,text:s,path:a,...o})=>t.jsx(e,{...o,variant:"outlined",className:"pulse-button reachout-button",onClick:()=>n(a),children:t.jsx("span",{className:"ripple-button",children:s})});export{u as N};
